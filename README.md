@@ -7,3 +7,4 @@ studyBuddy
 * online 'method/trick' sharing
 * somehow use tutoring for points
 * hmph, sounds like piazza?
+* filter by location 
